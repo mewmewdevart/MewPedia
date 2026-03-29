@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/e47deab5-a7e1-421a-aab8-4a356cbdea75e" width="150" alt="Books Logo" />
+  <img src="./assets/book.png" width="150" alt="Books Logo" />
 
   <h1>MewPedia</h1>
   
